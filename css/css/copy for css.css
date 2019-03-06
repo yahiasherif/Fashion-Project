@@ -1,0 +1,525 @@
+*{
+	
+	padding:0px;
+	margin:0px;
+	box-sizing:border-box;
+}
+
+html,body{
+	
+			width:100%;
+			height:100%;
+			
+	
+	
+} /* start nav style */
+
+nav{
+	
+			height:auto%;
+			background-color:black;
+			color:white;
+
+}
+
+nav a{
+		
+		color:white;
+		display:inline-block;
+		padding:10px 15px;
+	
+}
+nav a:link, nav a:visited{
+	
+                        background:black;
+                          color:white
+}
+nav a:hover, nav a:active{background:#ccc;
+                           color:#000
+}
+.search{
+	   float:right;
+	
+	
+	
+}
+
+     /* start header style */
+
+
+#headertext{
+	
+	
+	
+			height:auto;
+			text-align:center;
+			padding:50px 0px;
+			
+			
+}
+#headertext h1{
+	font-weight:bold;
+		
+	
+}
+
+#headertext span{
+	background-color:black;
+	color:white;
+	padding:0px 5px;
+}
+header{
+			height:auto;
+			background-color:black;
+			position:relative;
+			margin;
+	
+	
+	
+}
+header img{
+	
+	width:100%;
+}
+
+.headerdiv{
+	position:absolute;
+	top:40%;
+	left:7%;
+	color:white;
+	font-weight:bold;
+	font-size:22px;
+	
+	
+}
+.headerdiv button{
+	
+	
+	border:none;
+	padding:10px 20px;
+	background-color:rgba(232,224,224,0.5);
+	color:black;
+}
+
+    /* start main style */
+main{
+		height:auto;
+		background-color:#f1f1f1;
+		width:100%;
+		
+}
+section{
+	
+		height:auto%;
+		width:70%;
+		float:left;
+		
+  
+}
+
+	   
+	   
+main section article{
+	         background-color:white;
+            padding:30px;
+			 margin:35px;
+			 position:relative;
+            
+	
+	
+}	   
+ 
+ 
+  
+ section article .divtitle{    text-align:center;
+                          }
+						  
+ .boldspan{
+	
+	 font-weight:bold;
+	
+	
+}
+
+main section img{ 
+
+	width:100%;
+
+	
+	
+}	
+section p{
+	    
+		 text-align:justify;
+		 padding-top:20px;
+}	
+
+
+	 
+	
+	  padding-top:10px
+	
+}		  
+.sectionbutton{
+	  margin-left:0px;
+	  padding-left:0px;
+	  
+}
+	
+.sectionbuttonl{
+	          margin:20px 2px;
+			  font-weight:bold;
+			  border:none;
+			  border:1px solid #ccc;
+			  padding:12px 20px;
+			  background:white;
+			  float:left
+	
+	
+	
+}	
+
+.sectionbuttonl:hover{
+	
+	 background-color:#f1f1f1;
+	 
+	
+	
+}
+
+.sectionbutton2	{
+	         
+	      margin:15px 8px;
+		  font-weight:bold;
+		  border:none;
+		  padding:15px 20px;
+		  background:black;color:white;
+		  float:right;
+	
+	
+	
+}
+.sectionbutton2:hover{
+	
+	background-color:#f1f1f1;
+	color:black}
+
+section button #span2{
+	                 margin-left:5px;
+                      font-weight:bold;
+					  background:white;
+					  color:black;
+					  padding:3px 8px
+					  }
+
+main section hr{ 
+
+				color:gray;
+                opacity:.2;
+				margin-bottom: 30;
+					
+}	
+		  
+	   
+	   
+
+
+				
+	
+main section .lastbigdiv img{width:10%;
+							float:left;
+							padding-right:10px;
+							margin-top;20px;
+							
+							}
+main section .lastbigdiv.p{ 
+							margin-left:50px;
+							float:left;}
+							
+main section .lastbigdiv .p p {color:#000;
+								font-size:16px;
+								margin-left:50px;
+								 
+								 
+								
+								}
+main section .lastbigdiv .p .first{
+		
+		 padding-top: 5px;
+		
+		
+		
+	}
+								
+	main section .lastbigdiv .p .last{
+		
+		 margin-top: -10px;
+		
+		
+		
+	}						
+main section .lastbigdiv .p span{
+                                font-size:20px;
+								 font-weight:bold;}
+
+
+
+aside{
+	
+		height:auto%;
+		width:30%;
+		float:right;
+		background-color:#f1f1f1;
+		margin-top:30px;;
+		
+	
+}
+aside img{
+	   width:100%
+	
+	
+}
+.firstasidediv{background-color:black;
+               color:white;
+			   padding:20px;
+	
+		
+	
+}
+
+.black{
+	
+		background-color:black;
+		width:100%;
+		height:auto;
+		padding-bottom:5px;
+		color:white;
+		font-size:25px;
+		font-weight:bold;
+		margin-top:30px;
+		padding:20px;
+	
+}
+
+.white{
+	
+		width:100%;
+		height:auto;
+		background-color:white;
+		color:black;
+		display:inline-block;
+		padding:20px;
+	
+		
+		
+		
+	
+}
+
+.smallimages2{
+	  width:17%;
+	  float:left;
+	  padding:10px;
+	
+	
+}
+.ullist{
+	    width:100%;
+		height:auto;
+		display:inline-block;
+		padding:0px;
+}
+.fisrblock {
+	
+	   background-color:white;
+	   margin-bottom:1px;
+	
+	
+	
+	
+} 
+.fisrblock:hover{
+	
+	    background-color:grey;
+	
+}
+		
+.text3{
+	
+	padding-left: 85px;
+	padding-top:15px;
+	
+	
+}
+.white ul li {
+	margin-bottom:3px;
+}
+.white ul li:hover{
+	background-color:gray;
+}	  
+
+#fashion{
+		background-color:black;
+		color:white;
+		margin:1px;
+		padding:1px;
+	
+	
+}
+#tags{
+	
+	background-color:#f1f1f1;
+		color:black;
+		margin-bottom:10px;
+		padding:1px;
+		padding-top:2px;
+		 display: inline-block;
+		padding-left: 8px;
+		
+		text-align: center;
+			
+		
+}
+.lastimages{
+	
+	width:49%;
+	height:130px;
+	padding:7px;
+	
+	
+	
+}
+.white a{
+	
+	font-size:20px;
+	color:black;
+	margin:3px;
+	
+	
+}
+#lasttext{
+	
+	    width:100%;
+		height:40px;
+	
+	
+	
+}
+.lastbutton{display:block;
+            width:100%;
+			height:40px;
+			color: #fff;
+            background-color: #f44336;}
+			
+.lastbutton:hover{
+	
+	background-color:#f1f1f1;
+	color:black;
+	
+	
+} 
+
+	/* start footer style */
+	
+footer{
+		
+		height:20%;
+		background-color:#616161;
+		text-align:center-left;
+		width:100%;
+		position:relative;
+		float:bottom;
+			
+}
+ footer a{
+	
+		text-decoration:none;
+		left:40%;
+		background-color:black;
+		color:white;
+		position:absolute;
+		text-align:center;
+		width:100px;
+		height:40px;
+		padding-top:10px;
+		padding-bottom:10px;
+		margin-top:20px;
+	
+}
+footer p{   left:40%;
+           color:black;
+            margin-left:47%;
+			
+}
+
+#dis{
+	
+		width:50%;
+		height:35%;
+		margin:auto;
+		background-color:white;
+		z-index:1;
+		position:fixed;
+		margin-left:25%;
+		margin-top:12%;
+		display:none;
+		border:1px solid black;
+		
+}
+			
+#dis input, #dis #lastbutton, #dis h2, #dis p{
+	
+		width:90%;
+		margin-left:5%;
+		height:20%;
+	
+}
+
+#dis .button{
+	
+		display:inline-block;
+		width:30px;
+		height:30px;
+		background-color:white;
+		border:none;
+	
+}
+
+#dis #lastbutton{
+	
+		background-color:#f44336;
+	
+}
+
+#dis i{
+	
+		display:inline-block;
+		width:100%;
+		height:100%;
+		font-size:25px;
+	
+}
+
+#dis input{
+	
+		margin-bottom:10px;
+	
+}
+
+#dis h2{
+	
+		display:inline-block;
+	
+}
+/*start meadia query */
+@media only screen and (max-width: 992px){
+	main section, main aside{
+		width:100%;
+		display:block;
+		float:left;
+	}
+	main aside{
+		padding:20px 20px 20px 22px 
+	}
+	
+}
